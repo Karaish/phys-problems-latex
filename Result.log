@@ -1,0 +1,2367 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  15 MAY 2019 19:29
+entering extended mode
+**./Result.tex
+(Result.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.d
+ef"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.f
+d"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+"
+Package: babel 2019/05/04 3.31 The Babel package
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.de
+f"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\rus
+sianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+"
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
+def")
+\bbl@dirlevel=\count90
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.s
+ty"
+\wrapoverhang=\dimen104
+\WF@size=\dimen105
+\c@WF@wrappedlines=\count91
+\WF@box=\box27
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks18
+\float@box=\box28
+\@float@everytoks=\toks19
+\@floatcapt=\box29
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
+sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks20
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaptio
+n.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.s
+ty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.
+sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@caption@flags=\count96
+\c@ContinuedFloat=\count97
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count98
+\c@subtable=\count99
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer
+\tikz.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+f.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+rcs.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common.tex"
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen123
+\pgfutil@tempdimb=\dimen124
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-common-lists.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfutil-latex.def"
+\pgfutil@abb=\box30
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfrcs.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisio
+n.tex")
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pg
+fcore.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\p
+gfsys.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys.code.tex"
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen125
+\pgf@y=\dimen126
+\pgf@xa=\dimen127
+\pgf@ya=\dimen128
+\pgf@xb=\dimen129
+\pgf@yb=\dimen130
+\pgf@xc=\dimen131
+\pgf@yc=\dimen132
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count100
+\c@pgf@countb=\count101
+\c@pgf@countc=\count102
+\c@pgf@countd=\count103
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count104
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgf.cfg"
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count105
+\pgfsyssoftpath@bigbuffer@items=\count106
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer
+\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcore.code.tex"
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hcalc.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hutil.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hparser.code.tex"
+\pgfmath@dimen=\dimen133
+\pgfmath@count=\count107
+\pgfmath@box=\box31
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.basic.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.trigonometric.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.random.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.comparison.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.base.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.round.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.misc.code.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfunctions.integerarithmetics.code.tex")))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+hfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count108
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen134
+\pgf@picmaxx=\dimen135
+\pgf@picminy=\dimen136
+\pgf@picmaxy=\dimen137
+\pgf@pathminx=\dimen138
+\pgf@pathmaxx=\dimen139
+\pgf@pathminy=\dimen140
+\pgf@pathmaxy=\dimen141
+\pgf@xx=\dimen142
+\pgf@xy=\dimen143
+\pgf@yx=\dimen144
+\pgf@yy=\dimen145
+\pgf@zx=\dimen146
+\pgf@zy=\dimen147
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen148
+\pgf@path@lasty=\dimen149
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen150
+\pgf@shorten@start@additional=\dimen151
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count109
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen152
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen153
+\pgf@pt@y=\dimen154
+\pgf@pt@temp=\dimen155
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen156
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen157
+\pgf@sys@shading@range@num=\count110
+\pgf@shadingcount=\count111
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box35
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\
+pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box36
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen158
+\pgf@nodesepend=\dimen159
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility
+\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+for.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgf
+keys.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gfkeys.code.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.
+sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\p
+gffor.code.tex"
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmat
+h.code.tex")
+\pgffor@iter=\dimen160
+\pgffor@skip=\dimen161
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz\tikz.code.tex"
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count112
+\pgfplotmarksize=\dimen162
+)
+\tikz@lastx=\dimen163
+\tikz@lasty=\dimen164
+\tikz@lastxsaved=\dimen165
+\tikz@lastysaved=\dimen166
+\tikzleveldistance=\dimen167
+\tikzsiblingdistance=\dimen168
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count113
+\tikznumberofchildren=\count114
+\tikznumberofcurrentchild=\count115
+\tikz@fig@count=\count116
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+modulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count117
+\pgfmatrixcurrentcolumn=\count118
+\pgf@matrix@numberofcolumns=\count119
+)
+\tikz@expandcount=\count120
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/circuitikz\circui
+tikz.sty"
+Package: circuitikz 2017/05/28{} The CircuiTikz circuit drawing package version
+ 0.8.3
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\arrowsize=\dimen169
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+irc.defines.tex"
+\pgf@circ@res@up=\dimen170
+\pgf@circ@res@down=\dimen171
+\pgf@circ@res@zero=\dimen172
+\pgf@circ@res@left=\dimen173
+\pgf@circ@res@right=\dimen174
+\pgf@circ@res@other=\dimen175
+\pgf@circ@res@step=\dimen176
+\pgf@circ@res@temp=\dimen177
+\pgfstartlinewidth=\dimen178
+\pgf@circ@Rlen=\dimen179
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircutils.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircshapes.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircmonopoles.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircbipoles.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+irctripoles.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircquadpoles.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+irclabel.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircvoltage.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+irccurrent.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircflow.tex")
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/circuitikz\pgfc
+ircpath.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/standalone\standa
+lone.sty"
+Package: standalone 2018/03/26 v1.3a Package to include TeX sub-files with prea
+mbles
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.st
+y"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval
+.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count121
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/currfile\currfile
+.sty"
+Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curre
+nt input file
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/filehook\filehook
+.sty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)
+\c@currfiledepth=\count122
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/gincltex\gincltex
+.sty"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/svn-prov\svn-prov
+.sty"
+Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)
+Package: gincltex 2011/09/04 v0.3 Include external LaTeX files like graphics
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjustb
+ox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcalc
+.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimcli
+p.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\collec
+tbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box41
+)
+\tc@llx=\dimen180
+\tc@lly=\dimen181
+\tc@urx=\dimen182
+\tc@ury=\dimen183
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdft
+ex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen184
+\adjbox@Height=\dimen185
+\adjbox@Depth=\dimen186
+\adjbox@Totalheight=\dimen187
+\adjbox@pwidth=\dimen188
+\adjbox@pheight=\dimen189
+\adjbox@pdepth=\dimen190
+\adjbox@ptotalheight=\dimen191
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpa
+ge.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count123
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth
+.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box42
+\sift@deathcycles=\count124
+\@vwid@loff=\dimen192
+\@vwid@roff=\dimen193
+))
+\gincltex@box=\box43
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/filemod\filemod-e
+xpmin.sty"
+Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
+ (expandable; minimal)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarypatterns.code.tex"
+File: tikzlibrarypatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\p
+gflibrarypatterns.code.tex"
+File: pgflibrarypatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryangles.code.tex"
+File: tikzlibraryangles.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryquotes.code.tex"
+File: tikzlibraryquotes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarysnakes.code.tex"
+File: tikzlibrarysnakes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgf
+moduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen194
+\pgfdecoratedremainingdistance=\dimen195
+\pgfdecoratedinputsegmentcompleteddistance=\dimen196
+\pgfdecoratedinputsegmentremainingdistance=\dimen197
+\pgf@decorate@distancetomove=\dimen198
+\pgf@decorate@repeatstate=\count125
+\pgfdecorationsegmentamplitude=\dimen199
+\pgfdecorationsegmentlength=\dimen256
+)
+\tikz@lib@dec@box=\box44
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/d
+ecorations\pgflibrarydecorations.pathmorphing.code.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/d
+ecorations\pgflibrarydecorations.pathreplacing.code.tex"))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarydecorations.shapes.code.tex"
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/d
+ecorations\pgflibrarydecorations.shapes.code.tex")))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen257
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen258
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count126
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count127
+\leftroot@=\count128
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count129
+\DOTSCASE@=\count130
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen259
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count131
+\c@MaxMatrixCols=\count132
+\dotsspace@=\muskip10
+\c@parentequation=\count133
+\dspbrk@lvl=\count134
+\tag@help=\toks36
+\row@=\count135
+\column@=\count136
+\maxfields@=\count137
+\andhelp@=\toks37
+\eqnshift@=\dimen260
+\alignsep@=\dimen261
+\tagshift@=\dimen262
+\tagwidth@=\dimen263
+\totwidth@=\dimen264
+\lineht@=\dimen265
+\@envbody=\toks38
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\eucal.st
+y"
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst
+.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/answers\answers.s
+ty"
+Package: answers 2014/08/24 v2.16 Production of solution sheets in LaTeX2e
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.st
+y"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks40
+\verbatim@line=\toks41
+\verbatim@in@stream=\read2
+))
+\c@Solution=\count138
+\c@Answer=\count139
+\c@Exc=\count140
+ (Result.aux)
+\openout1 = `Result.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count141
+\scratchdimen=\dimen266
+\scratchbox=\box47
+\nofMPsegments=\count142
+\nofMParguments=\count143
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count144
+\MPscratchDim=\dimen267
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
+\everyMPtoPDFconversion=\toks43
+)
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 335.74254pt, 42.67912pt)
+* v-part:(T,H,B)=(71.70166pt, 468.90071pt, 56.9055pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=335.74254pt
+* \textheight=468.90071pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-30.63582pt
+* \headheight=12.0pt
+* \headsep=8.53581pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=7.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+
+("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+ ("C:\Users\Sanset\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{C:/Users/Sanset/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Result.toc [1
+
+])
+\tf@toc=\write4
+\openout4 = `Result.toc'.
+
+ [2] (Introduction.tex)
+Output from handle solutions going to solutionsFile.tex
+\solutions@file=\write5
+\openout5 = `solutionsFile.tex'.
+
+Output from handle answers going to answersFile.tex
+\answers@file=\write6
+\openout6 = `answersFile.tex'.
+
+[3
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+(Relativity.tex [4
+
+]
+Overfull \hbox (2.15645pt too wide) in paragraph at lines 92--98
+[]\T2A/cmr/m/n/10 Определите крат-чай-шее рас-сто-я-ние меж-ду ав-то-мо-би-ля-м
+и, ко-
+ []
+
+[5] (Pictures/0113RelativityRings.tex)
+File: Pictures/0113RelativityRings.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 125--140
+[]$ $[]$ 
+ []
+
+(Pictures/0114RelativityWedge.tex)
+File: Pictures/0114RelativityWedge.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 143--158
+[]$ $[]$ 
+ []
+
+(Pictures/012011RelativityBus.tex)
+File: Pictures/012011RelativityBus.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 161--173
+[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 178--181
+[]\T2A/cmr/m/n/10 (2007) Два ка-те-ра вы-шли од-но-вре-мен-но из
+ []
+
+(Pictures/0115RelativityPowerboats.tex)
+File: Pictures/0115RelativityPowerboats.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 176--189
+[]$ $[]$ 
+ []
+
+[6]) (Angle.tex [7] (Pictures/0209AngleHouse.tex)
+File: Pictures/0209AngleHouse.tex Graphic file (type tex)
+ [8]
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 125.
+
+Missing character: There is no х in font cmr10!
+) (RotationKinematics.tex [9] (Pictures/032006RotationKinematicsBar.tex)
+File: Pictures/032006RotationKinematicsBar.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 29--41
+[]$ $[]$ 
+ []
+
+(Pictures/0307InfinitesimalChangeRay.tex)
+File: Pictures/0307InfinitesimalChangeRay.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 53--64
+[]$ $[]$ 
+ []
+
+(Pictures/0308RotationKinematicsProjectors.tex)
+File: Pictures/0308RotationKinematicsProjectors.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 67--78
+[]$ $[]$ 
+ []
+
+[10] (Pictures/0309RotationKinematicsLorry.tex)
+File: Pictures/0309RotationKinematicsLorry.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 81--92
+[]$ $[]$ 
+ []
+
+(Pictures/0311RotationKinematicsDisc.tex)
+File: Pictures/0311RotationKinematicsDisc.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 102--113
+[]$ $[]$ 
+ []
+
+(Pictures/0313RotationKinematicsRingAndBead.tex)
+File: Pictures/0313RotationKinematicsRingAndBead.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 123--134
+[]$ $[]$ 
+ []
+
+[11]) (Dynamics.tex (Pictures/ConnectedInclinedRod.tex)
+File: Pictures/ConnectedInclinedRod.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 13--24
+[]$ $[]$ 
+ []
+
+[12] (Pictures/MinForceAngle.tex)
+File: Pictures/MinForceAngle.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 42--54
+[]$ $[]$ 
+ []
+
+(Pictures/InclinedSurfaceFriction.tex)
+File: Pictures/InclinedSurfaceFriction.tex Graphic file (type tex)
+ (Pictures/0403DynamicsBlocks.tex)
+File: Pictures/0403DynamicsBlocks.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 76--87
+[]$ $[]$ 
+ []
+
+[13] (Pictures/0402DynamicsPaper.tex)
+File: Pictures/0402DynamicsPaper.tex Graphic file (type tex)
+ (Pictures/0405DynamicsRing.tex)
+File: Pictures/0405DynamicsRing.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 100--113
+[]$ $[]$ 
+ []
+
+(Pictures/0406DynamicsCone.tex)
+File: Pictures/0406DynamicsCone.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 116--127
+[]$ $[]$ 
+ []
+
+[14] (Pictures/ForceSpring.tex)
+File: Pictures/ForceSpring.tex Graphic file (type tex)
+) (CenterofMass.tex
+(Pictures/051998CenterOfMassSpring.tex)
+File: Pictures/051998CenterOfMassSpring.tex Graphic file (type tex)
+ [15]
+(Pictures/0510CenterOfMassWedge.tex)
+File: Pictures/0510CenterOfMassWedge.tex Graphic file (type tex)
+ [16]
+(Pictures/0507DistributedMassChainAndTable.tex)
+File: Pictures/0507DistributedMassChainAndTable.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 102--113
+[]$ $[]$ 
+ []
+
+(Pictures/0503DistributedMassChainAndPulley.tex)
+File: Pictures/0503DistributedMassChainAndPulley.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 116--127
+[]$ $[]$ 
+ []
+
+(Pictures/0505DistributedMassRope.tex)
+File: Pictures/0505DistributedMassRope.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 130--141
+[]$ $[]$ 
+ []
+
+[17] (Pictures/0506DistributedMassChainAndCeiling.tex)
+File: Pictures/0506DistributedMassChainAndCeiling.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 144--155
+[]$ $[]$ 
+ []
+
+) (MechanicalEnergy.tex
+Overfull \hbox (1.92715pt too wide) in paragraph at lines 1--1
+[]\T2A/cmr/bx/n/14.4 Теорема об из-ме-не-нии ме-ха-ни-че-ской энер-
+ []
+
+(Pictures/0601MechanicalEnergyBlocks.tex)
+File: Pictures/0601MechanicalEnergyBlocks.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 4--15
+[]$ $[]$ 
+ []
+
+(Pictures/0602MechanicalEnergyHill.tex)
+File: Pictures/0602MechanicalEnergyHill.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 18--29
+[]$ $[]$ 
+ []
+
+[18] (Pictures/0603MechanicalEnergySpring.tex)
+File: Pictures/0603MechanicalEnergySpring.tex Graphic file (type tex)
+
+(Pictures/0604MechanicalEnergyWedgeAndBlock.tex)
+File: Pictures/0604MechanicalEnergyWedgeAndBlock.tex Graphic file (type tex)
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 42--55
+[]$ $[]$ 
+ []
+
+[19] (Pictures/0611EnergyAndImpulseBar.tex)
+File: Pictures/0611EnergyAndImpulseBar.tex Graphic file (type tex)
+
+Overfull \hbox (3.8119pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 107--118
+[]$ $[]$ 
+ []
+
+[20]
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 145.
+
+Missing character: There is no М in font cmr10!
+<OldPictures/PlatformWithOscillator.png, id=89, 318.18875pt x 226.8475pt>
+File: OldPictures/PlatformWithOscillator.png Graphic file (type png)
+<use OldPictures/PlatformWithOscillator.png>
+Package pdftex.def Info: OldPictures/PlatformWithOscillator.png  used on input 
+line 149.
+(pdftex.def)             Requested size: 105.76001pt x 75.39987pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 143--154
+[]$ $[]$ 
+ []
+
+) (RotationDynamics.tex
+<OldPictures/0717RotationDynamicsReelOfThread.jpg, id=91, 161.10187pt x 109.910
+63pt>
+File: OldPictures/0717RotationDynamicsReelOfThread.jpg Graphic file (type jpg)
+<use OldPictures/0717RotationDynamicsReelOfThread.jpg>
+Package pdftex.def Info: OldPictures/0717RotationDynamicsReelOfThread.jpg  used
+ on input line 18.
+(pdftex.def)             Requested size: 105.76001pt x 72.15717pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 12--23
+[]$ $[]$ 
+ []
+
+[21 <./OldPictures/PlatformWithOscillator.png> <./OldPictures/0717RotationDynam
+icsReelOfThread.jpg>]
+<OldPictures/0705RotationDynamicsHorisontalBar.jpg, id=97, 96.36pt x 16.56187pt
+>
+File: OldPictures/0705RotationDynamicsHorisontalBar.jpg Graphic file (type jpg)
+
+<use OldPictures/0705RotationDynamicsHorisontalBar.jpg>
+Package pdftex.def Info: OldPictures/0705RotationDynamicsHorisontalBar.jpg  use
+d on input line 60.
+(pdftex.def)             Requested size: 134.29495pt x 23.08183pt.
+<OldPictures/0709RotationDynamicsFallOfBar.jpg, id=98, 115.93312pt x 90.3375pt>
+
+File: OldPictures/0709RotationDynamicsFallOfBar.jpg Graphic file (type jpg)
+<use OldPictures/0709RotationDynamicsFallOfBar.jpg>
+Package pdftex.def Info: OldPictures/0709RotationDynamicsFallOfBar.jpg  used on
+ input line 75.
+(pdftex.def)             Requested size: 105.76001pt x 82.41124pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 69--80
+[]$ $[]$ 
+ []
+
+[22 <./OldPictures/0705RotationDynamicsHorisontalBar.jpg> <./OldPictures/0709Ro
+tationDynamicsFallOfBar.jpg>]
+<OldPictures/0704RotationDynamicsBarAndBall.jpg, id=102, 43.66313pt x 85.82062p
+t>
+File: OldPictures/0704RotationDynamicsBarAndBall.jpg Graphic file (type jpg)
+<use OldPictures/0704RotationDynamicsBarAndBall.jpg>
+Package pdftex.def Info: OldPictures/0704RotationDynamicsBarAndBall.jpg  used o
+n input line 134.
+(pdftex.def)             Requested size: 43.66301pt x 85.82039pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 128--139
+[]$ $[]$ 
+ []
+
+[23 <./OldPictures/0704RotationDynamicsBarAndBall.jpg>]) (ExtraProblems.tex
+Overfull \hbox (1.79543pt too wide) in paragraph at lines 4--8
+[]\T2A/cmr/m/n/10 Экспериментально уста-нов-ле-но, что при дви-же-нии пу-ли мас
+-
+ []
+
+[24]
+<OldPictures/ToileteTank.png, id=110, 307.3884pt x 203.3196pt>
+File: OldPictures/ToileteTank.png Graphic file (type png)
+<use OldPictures/ToileteTank.png>
+Package pdftex.def Info: OldPictures/ToileteTank.png  used on input line 40.
+(pdftex.def)             Requested size: 105.76001pt x 69.95297pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 34--45
+[]$ $[]$ 
+ []
+
+<OldPictures/AntAndTow.png, id=111, 336.7782pt x 221.1462pt>
+File: OldPictures/AntAndTow.png Graphic file (type png)
+<use OldPictures/AntAndTow.png>
+Package pdftex.def Info: OldPictures/AntAndTow.png  used on input line 93.
+(pdftex.def)             Requested size: 105.76001pt x 69.44545pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 87--101
+[]$ $[]$ 
+ []
+
+[25 <./OldPictures/ToileteTank.png>]
+<OldPictures/WasherOnSurface.png, id=116, 144.54pt x 101.37875pt>
+File: OldPictures/WasherOnSurface.png Graphic file (type png)
+<use OldPictures/WasherOnSurface.png>
+Package pdftex.def Info: OldPictures/WasherOnSurface.png  used on input line 11
+1.
+(pdftex.def)             Requested size: 105.76001pt x 74.17911pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 105--116
+[]$ $[]$ 
+ []
+
+[26 <./OldPictures/AntAndTow.png> <./OldPictures/WasherOnSurface.png>])
+[27]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+(GasLawsKineticTheory.tex (Pictures/082001GasLawsProcess.tex)
+File: Pictures/082001GasLawsProcess.tex Graphic file (type tex)
+ [28
+
+]
+<OldPictures/082012GasLawsGlass.jpg, id=128, 188.95593pt x 118.19156pt>
+File: OldPictures/082012GasLawsGlass.jpg Graphic file (type jpg)
+<use OldPictures/082012GasLawsGlass.jpg>
+Package pdftex.def Info: OldPictures/082012GasLawsGlass.jpg  used on input line
+ 46.
+(pdftex.def)             Requested size: 105.76001pt x 66.15254pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 38--51
+[]$ $[]$ 
+ []
+
+<OldPictures/0805GasLawsPiston.jpg, id=129, 246.1697pt x 268.75406pt>
+File: OldPictures/0805GasLawsPiston.jpg Graphic file (type jpg)
+<use OldPictures/0805GasLawsPiston.jpg>
+Package pdftex.def Info: OldPictures/0805GasLawsPiston.jpg  used on input line 
+64.
+(pdftex.def)             Requested size: 88.13394pt x 96.21828pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 55--69
+[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 77--82
+[]\T2A/cmr/m/n/10 Два со-су-да оди-на-ко-во-го объ-е-ма со-еди-не-ны
+ []
+
+<OldPictures/0806KineticTheoryTwoVessels.jpg, id=130, 274.02374pt x 152.82094pt
+>
+File: OldPictures/0806KineticTheoryTwoVessels.jpg Graphic file (type jpg)
+<use OldPictures/0806KineticTheoryTwoVessels.jpg>
+Package pdftex.def Info: OldPictures/0806KineticTheoryTwoVessels.jpg  used on i
+nput line 85.
+(pdftex.def)             Requested size: 105.76001pt x 58.98196pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 75--90
+[]$ $[]$ 
+ []
+
+[29 <./OldPictures/082012GasLawsGlass.jpg> <./OldPictures/0805GasLawsPiston.jpg
+>]
+<OldPictures/0807KineticTheoryHelium.jpg, id=134, 362.85562pt x 134.00063pt>
+File: OldPictures/0807KineticTheoryHelium.jpg Graphic file (type jpg)
+<use OldPictures/0807KineticTheoryHelium.jpg>
+Package pdftex.def Info: OldPictures/0807KineticTheoryHelium.jpg  used on input
+ line 102.
+(pdftex.def)             Requested size: 105.76001pt x 39.05547pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 94--107
+[]$ $[]$ 
+ []
+
+) (LawOfConservationOfEnergyAndHeatCapacity.tex
+<OldPictures/0901LawOfConservationOfEnergyTwoPistons.jpg, id=135, 68.50594pt x 
+49.68562pt>
+File: OldPictures/0901LawOfConservationOfEnergyTwoPistons.jpg Graphic file (typ
+e jpg)
+<use OldPictures/0901LawOfConservationOfEnergyTwoPistons.jpg>
+Package pdftex.def Info: OldPictures/0901LawOfConservationOfEnergyTwoPistons.jp
+g  used on input line 12.
+(pdftex.def)             Requested size: 105.76001pt x 76.71094pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 4--17
+[]$ $[]$ 
+ []
+
+[30 <./OldPictures/0806KineticTheoryTwoVessels.jpg> <./OldPictures/0807KineticT
+heoryHelium.jpg>]
+<OldPictures/0904LawOfConservationOfEnergyEfficiency.jpg, id=140, 322.20375pt x
+ 277.78781pt>
+File: OldPictures/0904LawOfConservationOfEnergyEfficiency.jpg Graphic file (typ
+e jpg)
+<use OldPictures/0904LawOfConservationOfEnergyEfficiency.jpg>
+Package pdftex.def Info: OldPictures/0904LawOfConservationOfEnergyEfficiency.jp
+g  used on input line 48.
+(pdftex.def)             Requested size: 105.76001pt x 91.1828pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 40--53
+[]$ $[]$ 
+ []
+
+[31 <./OldPictures/0901LawOfConservationOfEnergyTwoPistons.jpg> <./OldPictures/
+0904LawOfConservationOfEnergyEfficiency.jpg>]
+<OldPictures/GasInsideCapacitor.png, id=144, 297.11pt x 289.08pt>
+File: OldPictures/GasInsideCapacitor.png Graphic file (type png)
+<use OldPictures/GasInsideCapacitor.png>
+Package pdftex.def Info: OldPictures/GasInsideCapacitor.png  used on input line
+ 80.
+(pdftex.def)             Requested size: 105.76001pt x 102.9042pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 73--85
+[]$ $[]$ 
+ []
+
+<OldPictures/092002LawOfConservationOfEnergyProcess.jpg, id=145, 156.585pt x 12
+3.46124pt>
+File: OldPictures/092002LawOfConservationOfEnergyProcess.jpg Graphic file (type
+ jpg)
+<use OldPictures/092002LawOfConservationOfEnergyProcess.jpg>
+Package pdftex.def Info: OldPictures/092002LawOfConservationOfEnergyProcess.jpg
+  used on input line 90.
+(pdftex.def)             Requested size: 134.29495pt x 105.8901pt.
+<OldPictures/TwoVessels.png, id=146, 306.14375pt x 207.77625pt>
+File: OldPictures/TwoVessels.png Graphic file (type png)
+<use OldPictures/TwoVessels.png>
+Package pdftex.def Info: OldPictures/TwoVessels.png  used on input line 104.
+(pdftex.def)             Requested size: 105.76001pt x 71.77798pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 98--111
+[]$ $[]$ 
+ []
+
+[32 <./OldPictures/GasInsideCapacitor.png> <./OldPictures/092002LawOfConservati
+onOfEnergyProcess.jpg>]
+<OldPictures/092005HeatCapacityCylinder.jpg, id=151, 174.6525pt x 88.07906pt>
+File: OldPictures/092005HeatCapacityCylinder.jpg Graphic file (type jpg)
+<use OldPictures/092005HeatCapacityCylinder.jpg>
+Package pdftex.def Info: OldPictures/092005HeatCapacityCylinder.jpg  used on in
+put line 138.
+(pdftex.def)             Requested size: 105.76001pt x 53.3357pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 132--143
+[]$ $[]$ 
+ []
+
+[33 <./OldPictures/TwoVessels.png>] (Pictures/082001GasLawsProcess.tex)
+File: Pictures/082001GasLawsProcess.tex Graphic file (type tex)
+)
+[34 <./OldPictures/092005HeatCapacityCylinder.jpg>]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+(ElectrostaticsAndCondensers.tex (151.tex) (152.tex)
+Underfull \hbox (badness 1314) in paragraph at lines 26--28
+[]\T2A/cmr/m/n/10 Заряженный ме-тал-ли-че-ский шар ра-ди-у-са $\OML/cmm/m/it/10
+ R$
+ []
+
+<OldPictures/1003ElectrostaticsBall.jpg, id=158, 130.23656pt x 124.21407pt>
+File: OldPictures/1003ElectrostaticsBall.jpg Graphic file (type jpg)
+<use OldPictures/1003ElectrostaticsBall.jpg>
+Package pdftex.def Info: OldPictures/1003ElectrostaticsBall.jpg  used on input 
+line 31.
+(pdftex.def)             Requested size: 64.63191pt x 61.6425pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 24--39
+[]$ $[]$ 
+ []
+
+<OldPictures/1004ElectrostaticsTetrahedron.jpg, id=159, 130.23656pt x 107.65219
+pt>
+File: OldPictures/1004ElectrostaticsTetrahedron.jpg Graphic file (type jpg)
+<use OldPictures/1004ElectrostaticsTetrahedron.jpg>
+Package pdftex.def Info: OldPictures/1004ElectrostaticsTetrahedron.jpg  used on
+ input line 50.
+(pdftex.def)             Requested size: 76.38203pt x 63.13643pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 43--55
+[]$ $[]$ 
+ []
+
+[35
+
+ <./OldPictures/1003ElectrostaticsBall.jpg>]
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 62.
+
+Missing character: There is no х in font cmr10!
+<OldPictures/1005ElectrostaticsTwoPlates.jpg, id=163, 161.10187pt x 137.01187pt
+>
+File: OldPictures/1005ElectrostaticsTwoPlates.jpg Graphic file (type jpg)
+<use OldPictures/1005ElectrostaticsTwoPlates.jpg>
+Package pdftex.def Info: OldPictures/1005ElectrostaticsTwoPlates.jpg  used on i
+nput line 68.
+(pdftex.def)             Requested size: 105.76001pt x 89.94936pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 59--73
+[]$ $[]$ 
+ []
+
+<OldPictures/1001Condensers.jpg, id=164, 219.06844pt x 172.39406pt>
+File: OldPictures/1001Condensers.jpg Graphic file (type jpg)
+<use OldPictures/1001Condensers.jpg>
+Package pdftex.def Info: OldPictures/1001Condensers.jpg  used on input line 92.
+
+(pdftex.def)             Requested size: 105.76001pt x 83.22696pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 85--97
+[]$ $[]$ 
+ []
+
+<OldPictures/1002Condensers.jpg, id=165, 373.395pt x 173.89969pt>
+File: OldPictures/1002Condensers.jpg Graphic file (type jpg)
+<use OldPictures/1002Condensers.jpg>
+Package pdftex.def Info: OldPictures/1002Condensers.jpg  used on input line 108
+.
+(pdftex.def)             Requested size: 105.76001pt x 49.2541pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 101--113
+[]$ $[]$ 
+ []
+
+[36 <./OldPictures/1004ElectrostaticsTetrahedron.jpg> <./OldPictures/1005Electr
+ostaticsTwoPlates.jpg> <./OldPictures/1001Condensers.jpg>]
+<OldPictures/1005Condensers.jpg, id=170, 231.11343pt x 166.37157pt>
+File: OldPictures/1005Condensers.jpg Graphic file (type jpg)
+<use OldPictures/1005Condensers.jpg>
+Package pdftex.def Info: OldPictures/1005Condensers.jpg  used on input line 131
+.
+(pdftex.def)             Requested size: 105.76001pt x 76.13327pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 123--136
+[]$ $[]$ 
+ []
+
+<OldPictures/1006Condensers.jpg, id=171, 176.15813pt x 175.40532pt>
+File: OldPictures/1006Condensers.jpg Graphic file (type jpg)
+<use OldPictures/1006Condensers.jpg>
+Package pdftex.def Info: OldPictures/1006Condensers.jpg  used on input line 146
+.
+(pdftex.def)             Requested size: 88.13394pt x 87.75597pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 139--151
+[]$ $[]$ 
+ []
+
+) (DirectCurrent.tex
+<OldPictures/1101DirectCurrentABCircuitCube.jpg, id=172, 166.37157pt x 176.9109
+3pt>
+File: OldPictures/1101DirectCurrentABCircuitCube.jpg Graphic file (type jpg)
+<use OldPictures/1101DirectCurrentABCircuitCube.jpg>
+Package pdftex.def Info: OldPictures/1101DirectCurrentABCircuitCube.jpg  used o
+n input line 16.
+(pdftex.def)             Requested size: 83.18556pt x 88.45525pt.
+<OldPictures/1101DirectCurrentABCircuitStar.jpg, id=173, 93.34875pt x 81.30376p
+t>
+File: OldPictures/1101DirectCurrentABCircuitStar.jpg Graphic file (type jpg)
+<use OldPictures/1101DirectCurrentABCircuitStar.jpg>
+Package pdftex.def Info: OldPictures/1101DirectCurrentABCircuitStar.jpg  used o
+n input line 17.
+(pdftex.def)             Requested size: 93.34851pt x 81.30354pt.
+<OldPictures/1101DirectCurrentABCircuitSquare.jpg, id=174, 179.16937pt x 176.15
+813pt>
+File: OldPictures/1101DirectCurrentABCircuitSquare.jpg Graphic file (type jpg)
+<use OldPictures/1101DirectCurrentABCircuitSquare.jpg>
+Package pdftex.def Info: OldPictures/1101DirectCurrentABCircuitSquare.jpg  used
+ on input line 18.
+(pdftex.def)             Requested size: 89.58446pt x 88.07884pt.
+ [37 <./OldPictures/1002Condensers.jpg> <./OldPictures/1005Condensers.jpg> <./O
+ldPictures/1006Condensers.jpg>]
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 26--43
+[]$ $[]$ 
+ []
+
+<OldPictures/1103DirectCurrentThreeRings.jpg, id=178, 90.3375pt x 88.07906pt>
+File: OldPictures/1103DirectCurrentThreeRings.jpg Graphic file (type jpg)
+<use OldPictures/1103DirectCurrentThreeRings.jpg>
+Package pdftex.def Info: OldPictures/1103DirectCurrentThreeRings.jpg  used on i
+nput line 54.
+(pdftex.def)             Requested size: 94.0099pt x 91.66052pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 46--59
+[]$ $[]$ 
+ []
+
+<OldPictures/1104DirectCurrentFourInfiniteCircuitAB.jpg, id=179, 465.23813pt x 
+130.98938pt>
+File: OldPictures/1104DirectCurrentFourInfiniteCircuitAB.jpg Graphic file (type
+ jpg)
+<use OldPictures/1104DirectCurrentFourInfiniteCircuitAB.jpg>
+Package pdftex.def Info: OldPictures/1104DirectCurrentFourInfiniteCircuitAB.jpg
+  used on input line 65.
+(pdftex.def)             Requested size: 232.61848pt x 65.49452pt.
+<OldPictures/1105DirectCurrentNet.jpg, id=180, 153.57375pt x 121.95563pt>
+File: OldPictures/1105DirectCurrentNet.jpg Graphic file (type jpg)
+<use OldPictures/1105DirectCurrentNet.jpg>
+Package pdftex.def Info: OldPictures/1105DirectCurrentNet.jpg  used on input li
+ne 79.
+(pdftex.def)             Requested size: 94.0099pt x 74.6552pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 73--84
+[]$ $[]$ 
+ []
+
+[38 <./OldPictures/1101DirectCurrentABCircuitCube.jpg> <./OldPictures/1101Direc
+tCurrentABCircuitStar.jpg> <./OldPictures/1101DirectCurrentABCircuitSquare.jpg>
+ <./OldPictures/1103DirectCurrentThreeRings.jpg> <./OldPictures/1104DirectCurre
+ntFourInfiniteCircuitAB.jpg>]
+<OldPictures/1108DirectCurrentVDR.jpg, id=184, 132.495pt x 96.36pt>
+File: OldPictures/1108DirectCurrentVDR.jpg Graphic file (type jpg)
+<use OldPictures/1108DirectCurrentVDR.jpg>
+Package pdftex.def Info: OldPictures/1108DirectCurrentVDR.jpg  used on input li
+ne 109.
+(pdftex.def)             Requested size: 105.76001pt x 76.91753pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 102--114
+[]$ $[]$ 
+ []
+
+<OldPictures/1109DirectCurrentArcDischarge.jpg, id=185, 129.48375pt x 147.55125
+pt>
+File: OldPictures/1109DirectCurrentArcDischarge.jpg Graphic file (type jpg)
+<use OldPictures/1109DirectCurrentArcDischarge.jpg>
+Package pdftex.def Info: OldPictures/1109DirectCurrentArcDischarge.jpg  used on
+ input line 124.
+(pdftex.def)             Requested size: 105.76001pt x 120.52223pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 117--129
+[]$ $[]$ 
+ []
+
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 132--148
+[]$ $[]$ 
+ []
+
+[39 <./OldPictures/1105DirectCurrentNet.jpg> <./OldPictures/1108DirectCurrentVD
+R.jpg> <./OldPictures/1109DirectCurrentArcDischarge.jpg>]) (ElectromagAmper.tex
+
+Underfull \hbox (badness 2875) in paragraph at lines 6--7
+\T2A/cmr/m/n/10 тро-дви-га-те-ля. За-мкну-тый кон-тур об-ра-зо-ван
+ []
+
+<OldPictures/RodInMagneticField.png, id=189, 205.76875pt x 231.86626pt>
+File: OldPictures/RodInMagneticField.png Graphic file (type png)
+<use OldPictures/RodInMagneticField.png>
+Package pdftex.def Info: OldPictures/RodInMagneticField.png  used on input line
+ 10.
+(pdftex.def)             Requested size: 105.76001pt x 119.17363pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 4--15
+[]$ $[]$ 
+ []
+
+<OldPictures/122010AmperesForceLawTwoConductors.jpg, id=190, 133.24782pt x 115.
+93312pt>
+File: OldPictures/122010AmperesForceLawTwoConductors.jpg Graphic file (type jpg
+)
+<use OldPictures/122010AmperesForceLawTwoConductors.jpg>
+Package pdftex.def Info: OldPictures/122010AmperesForceLawTwoConductors.jpg  us
+ed on input line 37.
+(pdftex.def)             Requested size: 105.76001pt x 92.01955pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 28--42
+[]$ $[]$ 
+ []
+
+[40 <./OldPictures/RodInMagneticField.png>]
+<OldPictures/AmperGenerator.png, id=195, 214.8025pt x 143.53625pt>
+File: OldPictures/AmperGenerator.png Graphic file (type png)
+<use OldPictures/AmperGenerator.png>
+Package pdftex.def Info: OldPictures/AmperGenerator.png  used on input line 52.
+
+(pdftex.def)             Requested size: 105.76001pt x 70.67285pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 45--57
+[]$ $[]$ 
+ []
+
+<OldPictures/122009EMICoin.jpg, id=196, 124.96687pt x 64.74188pt>
+File: OldPictures/122009EMICoin.jpg Graphic file (type jpg)
+<use OldPictures/122009EMICoin.jpg>
+Package pdftex.def Info: OldPictures/122009EMICoin.jpg  used on input line 67.
+(pdftex.def)             Requested size: 105.76001pt x 54.79375pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 60--72
+[]$ $[]$ 
+ []
+
+[41 <./OldPictures/122010AmperesForceLawTwoConductors.jpg> <./OldPictures/Amper
+Generator.png>]
+<OldPictures/HalfringMagn.png, id=200, 142.5325pt x 87.32625pt>
+File: OldPictures/HalfringMagn.png Graphic file (type png)
+<use OldPictures/HalfringMagn.png>
+Package pdftex.def Info: OldPictures/HalfringMagn.png  used on input line 84.
+(pdftex.def)             Requested size: 70.50787pt x 43.19797pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 78--89
+[]$ $[]$ 
+ []
+
+<OldPictures/1202BiotSavartLawConductor.jpg, id=201, 125.71968pt x 59.47218pt>
+File: OldPictures/1202BiotSavartLawConductor.jpg Graphic file (type jpg)
+<use OldPictures/1202BiotSavartLawConductor.jpg>
+Package pdftex.def Info: OldPictures/1202BiotSavartLawConductor.jpg  used on in
+put line 99.
+(pdftex.def)             Requested size: 70.50787pt x 33.3541pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 93--104
+[]$ $[]$ 
+ []
+
+<OldPictures/1205AmperesCircuitalLawDisc.jpg, id=202, 310.15875pt x 180.675pt>
+File: OldPictures/1205AmperesCircuitalLawDisc.jpg Graphic file (type jpg)
+<use OldPictures/1205AmperesCircuitalLawDisc.jpg>
+Package pdftex.def Info: OldPictures/1205AmperesCircuitalLawDisc.jpg  used on i
+nput line 116.
+(pdftex.def)             Requested size: 105.76001pt x 61.60788pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 110--121
+[]$ $[]$ 
+ []
+
+<OldPictures/1206AmperesCircuitalLawSphere.jpg, id=203, 199.49532pt x 293.59688
+pt>
+File: OldPictures/1206AmperesCircuitalLawSphere.jpg Graphic file (type jpg)
+<use OldPictures/1206AmperesCircuitalLawSphere.jpg>
+Package pdftex.def Info: OldPictures/1206AmperesCircuitalLawSphere.jpg  used on
+ input line 134.
+(pdftex.def)             Requested size: 105.76001pt x 155.6459pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 125--139
+[]$ $[]$ 
+ []
+
+[42 <./OldPictures/122009EMICoin.jpg> <./OldPictures/HalfringMagn.png> <./OldPi
+ctures/1202BiotSavartLawConductor.jpg> <./OldPictures/1205AmperesCircuitalLawDi
+sc.jpg>]) (ElectromagInduction.tex
+<OldPictures/121998EMIConductorAC.jpg, id=209, 81.30376pt x 119.69719pt>
+File: OldPictures/121998EMIConductorAC.jpg Graphic file (type jpg)
+<use OldPictures/121998EMIConductorAC.jpg>
+Package pdftex.def Info: OldPictures/121998EMIConductorAC.jpg  used on input li
+ne 13.
+(pdftex.def)             Requested size: 82.25798pt x 121.11053pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 5--18
+[]$ $[]$ 
+ []
+
+[43 <./OldPictures/1206AmperesCircuitalLawSphere.jpg> <./OldPictures/121998EMIC
+onductorAC.jpg>]
+<OldPictures/1211EMIHillAndBridge.jpg, id=213, 426.09187pt x 202.50656pt>
+File: OldPictures/1211EMIHillAndBridge.jpg Graphic file (type jpg)
+<use OldPictures/1211EMIHillAndBridge.jpg>
+Package pdftex.def Info: OldPictures/1211EMIHillAndBridge.jpg  used on input li
+ne 51.
+(pdftex.def)             Requested size: 105.76001pt x 50.26189pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 41--56
+[]$ $[]$ 
+ []
+
+<OldPictures/122001EMIWiresAndBar.jpg, id=214, 165.61874pt x 86.57344pt>
+File: OldPictures/122001EMIWiresAndBar.jpg Graphic file (type jpg)
+<use OldPictures/122001EMIWiresAndBar.jpg>
+Package pdftex.def Info: OldPictures/122001EMIWiresAndBar.jpg  used on input li
+ne 69.
+(pdftex.def)             Requested size: 105.76001pt x 55.28394pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 60--74
+[]$ $[]$ 
+ []
+
+<OldPictures/122002EMIFrame.jpg, id=215, 190.46156pt x 246.1697pt>
+File: OldPictures/122002EMIFrame.jpg Graphic file (type jpg)
+<use OldPictures/122002EMIFrame.jpg>
+Package pdftex.def Info: OldPictures/122002EMIFrame.jpg  used on input line 85.
+
+(pdftex.def)             Requested size: 105.76001pt x 136.6934pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 78--90
+[]$ $[]$ 
+ []
+
+[44 <./OldPictures/1211EMIHillAndBridge.jpg> <./OldPictures/122001EMIWiresAndBa
+r.jpg>]
+<OldPictures/1214EMIRailsAndBridge.jpg, id=219, 274.77657pt x 185.19188pt>
+File: OldPictures/1214EMIRailsAndBridge.jpg Graphic file (type jpg)
+<use OldPictures/1214EMIRailsAndBridge.jpg>
+Package pdftex.def Info: OldPictures/1214EMIRailsAndBridge.jpg  used on input l
+ine 103.
+(pdftex.def)             Requested size: 105.76001pt x 71.2779pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 94--108
+[]$ $[]$ 
+ []
+
+) (ElectromagParticles.tex [45 <./OldPictures/122002EMIFrame.jpg> <./OldPicture
+s/1214EMIRailsAndBridge.jpg>]
+<OldPictures/ElectronInVacuumDiode.png, id=223, 289.08pt x 227.85126pt>
+File: OldPictures/ElectronInVacuumDiode.png Graphic file (type png)
+<use OldPictures/ElectronInVacuumDiode.png>
+Package pdftex.def Info: OldPictures/ElectronInVacuumDiode.png  used on input l
+ine 25.
+(pdftex.def)             Requested size: 105.76001pt x 83.35797pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 19--30
+[]$ $[]$ 
+ []
+
+[46 <./OldPictures/ElectronInVacuumDiode.png>]) [47]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+(Oscillations.tex
+<OldPictures/1303OscillationsSpringAndLine.jpg, id=232, 180.675pt x 192.72pt>
+File: OldPictures/1303OscillationsSpringAndLine.jpg Graphic file (type jpg)
+<use OldPictures/1303OscillationsSpringAndLine.jpg>
+Package pdftex.def Info: OldPictures/1303OscillationsSpringAndLine.jpg  used on
+ input line 15.
+(pdftex.def)             Requested size: 58.75597pt x 62.67148pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 9--20
+[]$ $[]$ 
+ []
+
+<OldPictures/1304OscillationsSpringAndCircle.jpg, id=233, 120.45pt x 216.81pt>
+File: OldPictures/1304OscillationsSpringAndCircle.jpg Graphic file (type jpg)
+<use OldPictures/1304OscillationsSpringAndCircle.jpg>
+Package pdftex.def Info: OldPictures/1304OscillationsSpringAndCircle.jpg  used 
+on input line 30.
+(pdftex.def)             Requested size: 58.75597pt x 105.75812pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 24--35
+[]$ $[]$ 
+ []
+
+<OldPictures/132007OscillationsTwoSpringsAndWeight.jpg, id=234, 233.37187pt x 1
+94.97844pt>
+File: OldPictures/132007OscillationsTwoSpringsAndWeight.jpg Graphic file (type 
+jpg)
+<use OldPictures/132007OscillationsTwoSpringsAndWeight.jpg>
+Package pdftex.def Info: OldPictures/132007OscillationsTwoSpringsAndWeight.jpg 
+ used on input line 44.
+(pdftex.def)             Requested size: 82.25798pt x 68.72543pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 38--49
+[]$ $[]$ 
+ []
+
+[48
+
+ <./OldPictures/1303OscillationsSpringAndLine.jpg> <./OldPictures/1304Oscillati
+onsSpringAndCircle.jpg>]
+<OldPictures/SpringRodOsc.png, id=239, 106.3975pt x 247.92625pt>
+File: OldPictures/SpringRodOsc.png Graphic file (type png)
+<use OldPictures/SpringRodOsc.png>
+Package pdftex.def Info: OldPictures/SpringRodOsc.png  used on input line 60.
+(pdftex.def)             Requested size: 23.50201pt x 54.76335pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 53--65
+[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 ка-ю-щий-ся фи-зи-че-ским экс-пе-ри-мен-том (и не
+ []
+
+<OldPictures/InvertedPenduumWithSpring.png, id=240, 208.78pt x 246.9225pt>
+File: OldPictures/InvertedPenduumWithSpring.png Graphic file (type png)
+<use OldPictures/InvertedPenduumWithSpring.png>
+Package pdftex.def Info: OldPictures/InvertedPenduumWithSpring.png  used on inp
+ut line 74.
+(pdftex.def)             Requested size: 105.76001pt x 125.08482pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 68--79
+[]$ $[]$ 
+ []
+
+[49 <./OldPictures/132007OscillationsTwoSpringsAndWeight.jpg> <./OldPictures/Sp
+ringRodOsc.png> <./OldPictures/InvertedPenduumWithSpring.png>]
+<OldPictures/132015OscillationsLissajousCurve.jpg, id=246, 389.20406pt x 102.38
+25pt>
+File: OldPictures/132015OscillationsLissajousCurve.jpg Graphic file (type jpg)
+<use OldPictures/132015OscillationsLissajousCurve.jpg>
+Package pdftex.def Info: OldPictures/132015OscillationsLissajousCurve.jpg  used
+ on input line 87.
+(pdftex.def)             Requested size: 235.01874pt x 61.82521pt.
+<OldPictures/1302OscillationsDynamicAbsorbentOfOscillations.jpg, id=247, 197.98
+969pt x 234.8775pt>
+File: OldPictures/1302OscillationsDynamicAbsorbentOfOscillations.jpg Graphic fi
+le (type jpg)
+<use OldPictures/1302OscillationsDynamicAbsorbentOfOscillations.jpg>
+Package pdftex.def Info: OldPictures/1302OscillationsDynamicAbsorbentOfOscillat
+ions.jpg  used on input line 103.
+(pdftex.def)             Requested size: 58.75597pt x 69.70041pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 96--108
+[]$ $[]$ 
+ []
+
+<OldPictures/1308OscillationsPistonInVerticalTube.jpg, id=248, 256.70906pt x 23
+4.8775pt>
+File: OldPictures/1308OscillationsPistonInVerticalTube.jpg Graphic file (type j
+pg)
+<use OldPictures/1308OscillationsPistonInVerticalTube.jpg>
+Package pdftex.def Info: OldPictures/1308OscillationsPistonInVerticalTube.jpg  
+used on input line 142.
+(pdftex.def)             Requested size: 105.76001pt x 96.7663pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 133--147
+[]$ $[]$ 
+ []
+
+[50 <./OldPictures/132015OscillationsLissajousCurve.jpg> <./OldPictures/1302Osc
+illationsDynamicAbsorbentOfOscillations.jpg>]
+<OldPictures/1310OscillationsPerfectLiquid.jpg, id=252, 113.67468pt x 179.16937
+pt>
+File: OldPictures/1310OscillationsPerfectLiquid.jpg Graphic file (type jpg)
+<use OldPictures/1310OscillationsPerfectLiquid.jpg>
+Package pdftex.def Info: OldPictures/1310OscillationsPerfectLiquid.jpg  used on
+ input line 158.
+(pdftex.def)             Requested size: 35.25394pt x 55.56653pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 152--163
+[]$ $[]$ 
+ []
+
+<OldPictures/132006OscillationsRopeInTube.jpg, id=253, 67.75313pt x 81.30376pt>
+
+File: OldPictures/132006OscillationsRopeInTube.jpg Graphic file (type jpg)
+<use OldPictures/132006OscillationsRopeInTube.jpg>
+Package pdftex.def Info: OldPictures/132006OscillationsRopeInTube.jpg  used on 
+input line 182.
+(pdftex.def)             Requested size: 82.25798pt x 98.71278pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 174--187
+[]$ $[]$ 
+ []
+
+<OldPictures/1309OscillationsDisc.jpg, id=254, 173.14688pt x 162.6075pt>
+File: OldPictures/1309OscillationsDisc.jpg Graphic file (type jpg)
+<use OldPictures/1309OscillationsDisc.jpg>
+Package pdftex.def Info: OldPictures/1309OscillationsDisc.jpg  used on input li
+ne 200.
+(pdftex.def)             Requested size: 105.76001pt x 99.3244pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 193--205
+[]$ $[]$ 
+ []
+
+[51 <./OldPictures/1308OscillationsPistonInVerticalTube.jpg> <./OldPictures/131
+0OscillationsPerfectLiquid.jpg> <./OldPictures/132006OscillationsRopeInTube.jpg
+>]
+<OldPictures/1314OscillationsPlanePendulum.jpg, id=258, 183.68625pt x 140.77594
+pt>
+File: OldPictures/1314OscillationsPlanePendulum.jpg Graphic file (type jpg)
+<use OldPictures/1314OscillationsPlanePendulum.jpg>
+Package pdftex.def Info: OldPictures/1314OscillationsPlanePendulum.jpg  used on
+ input line 224.
+(pdftex.def)             Requested size: 82.25798pt x 63.04355pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 217--229
+[]$ $[]$ 
+ []
+
+<OldPictures/1315OscillationsHanger.jpg, id=259, 727.21687pt x 224.33812pt>
+File: OldPictures/1315OscillationsHanger.jpg Graphic file (type jpg)
+<use OldPictures/1315OscillationsHanger.jpg>
+Package pdftex.def Info: OldPictures/1315OscillationsHanger.jpg  used on input 
+line 237.
+(pdftex.def)             Requested size: 167.87126pt x 51.78494pt.
+File: OldPictures/PlatformWithOscillator.png Graphic file (type png)
+<use OldPictures/PlatformWithOscillator.png>
+Package pdftex.def Info: OldPictures/PlatformWithOscillator.png  used on input 
+line 251.
+(pdftex.def)             Requested size: 82.25798pt x 58.64319pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 245--256
+[]$ $[]$ 
+ []
+
+[52 <./OldPictures/1309OscillationsDisc.jpg> <./OldPictures/1314OscillationsPla
+nePendulum.jpg> <./OldPictures/1315OscillationsHanger.jpg>]
+<OldPictures/HittingRod.png, id=263, 441.65pt x 79.29625pt>
+File: OldPictures/HittingRod.png Graphic file (type png)
+<use OldPictures/HittingRod.png>
+Package pdftex.def Info: OldPictures/HittingRod.png  used on input line 265.
+(pdftex.def)             Requested size: 134.29495pt x 24.1121pt.
+<OldPictures/132010OscillationsPendulumOnThread.jpg, id=264, 206.27063pt x 112.
+16907pt>
+File: OldPictures/132010OscillationsPendulumOnThread.jpg Graphic file (type jpg
+)
+<use OldPictures/132010OscillationsPendulumOnThread.jpg>
+Package pdftex.def Info: OldPictures/132010OscillationsPendulumOnThread.jpg  us
+ed on input line 278.
+(pdftex.def)             Requested size: 167.87126pt x 91.28946pt.
+ [53 <./OldPictures/HittingRod.png> <./OldPictures/132010OscillationsPendulumOn
+Thread.jpg>]
+<OldPictures/132014OscillationsCondenserAndDoublet.jpg, id=268, 422.32782pt x 1
+66.37157pt>
+File: OldPictures/132014OscillationsCondenserAndDoublet.jpg Graphic file (type 
+jpg)
+<use OldPictures/132014OscillationsCondenserAndDoublet.jpg>
+Package pdftex.def Info: OldPictures/132014OscillationsCondenserAndDoublet.jpg 
+ used on input line 296.
+(pdftex.def)             Requested size: 134.29495pt x 52.90488pt.
+)
+(ElectromagOscill.tex
+<OldPictures/1219OscillatoryCircuitCCL.jpg, id=269, 197.23688pt x 194.22563pt>
+File: OldPictures/1219OscillatoryCircuitCCL.jpg Graphic file (type jpg)
+<use OldPictures/1219OscillatoryCircuitCCL.jpg>
+Package pdftex.def Info: OldPictures/1219OscillatoryCircuitCCL.jpg  used on inp
+ut line 13.
+(pdftex.def)             Requested size: 82.25798pt x 81.00221pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 5--18
+[]$ $[]$ 
+ []
+
+<OldPictures/1220OscillatoryCircuitC1C2L.jpg, id=270, 246.9225pt x 194.22563pt>
+
+File: OldPictures/1220OscillatoryCircuitC1C2L.jpg Graphic file (type jpg)
+<use OldPictures/1220OscillatoryCircuitC1C2L.jpg>
+Package pdftex.def Info: OldPictures/1220OscillatoryCircuitC1C2L.jpg  used on i
+nput line 30.
+(pdftex.def)             Requested size: 82.25798pt x 64.7022pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 22--35
+[]$ $[]$ 
+ []
+
+[54 <./OldPictures/132014OscillationsCondenserAndDoublet.jpg> <./OldPictures/12
+19OscillatoryCircuitCCL.jpg>]
+<OldPictures/1221OscillatoryCircuitCLR.jpg, id=275, 200.24812pt x 121.20282pt>
+File: OldPictures/1221OscillatoryCircuitCLR.jpg Graphic file (type jpg)
+<use OldPictures/1221OscillatoryCircuitCLR.jpg>
+Package pdftex.def Info: OldPictures/1221OscillatoryCircuitCLR.jpg  used on inp
+ut line 47.
+(pdftex.def)             Requested size: 105.76001pt x 64.0134pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 39--52
+[]$ $[]$ 
+ []
+
+<OldPictures/122011OscillatoryCircuitTriangleCCCLLL.jpg, id=276, 94.10156pt x 6
+5.49469pt>
+File: OldPictures/122011OscillatoryCircuitTriangleCCCLLL.jpg Graphic file (type
+ jpg)
+<use OldPictures/122011OscillatoryCircuitTriangleCCCLLL.jpg>
+Package pdftex.def Info: OldPictures/122011OscillatoryCircuitTriangleCCCLLL.jpg
+  used on input line 62.
+(pdftex.def)             Requested size: 105.76001pt x 73.61435pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 55--67
+[]$ $[]$ 
+ []
+
+<OldPictures/1223AlternatingCurrentCLR.jpg, id=277, 106.89937pt x 134.75343pt>
+File: OldPictures/1223AlternatingCurrentCLR.jpg Graphic file (type jpg)
+<use OldPictures/1223AlternatingCurrentCLR.jpg>
+Package pdftex.def Info: OldPictures/1223AlternatingCurrentCLR.jpg  used on inp
+ut line 79.
+(pdftex.def)             Requested size: 82.25798pt x 103.69054pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 73--84
+[]$ $[]$ 
+ []
+
+[55 <./OldPictures/1220OscillatoryCircuitC1C2L.jpg> <./OldPictures/1221Oscillat
+oryCircuitCLR.jpg> <./OldPictures/122011OscillatoryCircuitTriangleCCCLLL.jpg>]
+<OldPictures/1225AlternatingCurrentCLRR.jpg, id=281, 173.14688pt x 134.00063pt>
+
+File: OldPictures/1225AlternatingCurrentCLRR.jpg Graphic file (type jpg)
+<use OldPictures/1225AlternatingCurrentCLRR.jpg>
+Package pdftex.def Info: OldPictures/1225AlternatingCurrentCLRR.jpg  used on in
+put line 95.
+(pdftex.def)             Requested size: 105.76001pt x 81.85065pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 88--100
+[]$ $[]$ 
+ []
+
+<OldPictures/1224AlternatingCurrentCCLR.jpg, id=282, 188.20313pt x 168.63pt>
+File: OldPictures/1224AlternatingCurrentCCLR.jpg Graphic file (type jpg)
+<use OldPictures/1224AlternatingCurrentCCLR.jpg>
+Package pdftex.def Info: OldPictures/1224AlternatingCurrentCCLR.jpg  used on in
+put line 110.
+(pdftex.def)             Requested size: 105.76001pt x 94.76407pt.
+
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 104--115
+[]$ $[]$ 
+ []
+
+) (solutionsFile.tex
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 2.
+
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 2.
+
+Missing character: There is no А in font cmr10!
+Missing character: There is no А in font cmr10!
+[56 <./OldPictures/1223AlternatingCurrentCLR.jpg> <./OldPictures/1225Alternatin
+gCurrentCLRR.jpg> <./OldPictures/1224AlternatingCurrentCCLR.jpg>]
+Overfull \hbox (1.56622pt too wide) in paragraph at lines 21--22
+[]\T2A/cmr/m/n/10 Изменение уров-ня жид-ко-сти на вы-со-те $\OML/cmm/m/it/10 z$
+ \T2A/cmr/m/n/10 опи-сы-ва-ет-ся диф-
+ []
+
+[57]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 34.
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 34.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 37.
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 37.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 38.
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 38.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 39.
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 39.
+
+
+Overfull \hbox (230.94344pt too wide) detected at line 42
+[]  []  []  []  []
+ []
+
+
+Overfull \hbox (15.28609pt too wide) in paragraph at lines 54--57
+\T2A/cmr/m/n/10 Решая эту си-сте-му урав-не-ний по-лу-чим: $\OML/cmm/m/it/10 U 
+\OT1/cmr/m/n/10 = []$ \T2A/cmr/m/n/10 и $\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = [
+]$\T2A/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (10.79521pt too wide) in paragraph at lines 59--61
+\T2A/cmr/m/n/10 Решая эти урав-не-ния от-но-си-тель-но $\OML/cmm/m/it/10 Q[]$ \
+T2A/cmr/m/n/10 и $\OML/cmm/m/it/10 Q[]$ \T2A/cmr/m/n/10 мож-но по-лу-чить: $\OM
+L/cmm/m/it/10 Q[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 q[]$\T2A
+/cmr/m/n/10 ,
+ []
+
+[58]) [59]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+(answersFile.tex [60
+
+] [61]
+Overfull \hbox (9.11646pt too wide) in paragraph at lines 166--167
+[]$\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 mg[] \OT1/cmr/m/n/10
+ = 48$ \T2A/cmr/m/n/10 Н, $\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = \OML/cmm/m/it
+/10 mg\OT1/cmr/m/n/10 (\OML/cmm/m/it/10  []  \OT1/cmr/m/n/10 + [] \OML/cmm/m/
+it/10 \OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =[] \OT1/cmr/m/n/10 =
+ []
+
+[62] [63] [64] [65] [66] [67] [68] [69] [70]) [71] (Result.aux) ) 
+Here is how much of TeX's memory you used:
+ 27017 strings out of 492895
+ 629245 string characters out of 3123268
+ 802286 words of memory out of 3000000
+ 30213 multiletter control sequences out of 15000+200000
+ 23382 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,13n,92p,1664b,2868s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\San
+set\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\
+Users\Sanset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600
+.pk> <C:\Users\Sanset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\larm0700.pk> <C:\Users\Sanset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx1440.pk> <C:\Users\Sanset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Sanset\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\lasl1000.pk> <C:\Users\Sanset\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Sanset\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Sanset\App
+Data\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk> <C:\Users\S
+anset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C
+:\Users\Sanset\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm17
+28.pk><C:/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sanset/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Sanset/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sanset/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+5.pfb><C:/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr7.pfb><C:/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sanset/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Sanset/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Sanset/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C
+:/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
+mbols/msbm10.pfb>
+Output written on Result.pdf (72 pages, 1783477 bytes).
+PDF statistics:
+ 732 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 367 words of extra memory for PDF output out of 10000 (max. 10000000)
+
