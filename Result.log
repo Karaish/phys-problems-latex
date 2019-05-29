@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  15 MAY 2019 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.11)  29 MAY 2019 22:09
 entering extended mode
 **./Result.tex
 (Result.tex
@@ -1621,7 +1621,7 @@ Package pdftex.def Info: OldPictures/1003ElectrostaticsBall.jpg  used on input
 line 31.
 (pdftex.def)             Requested size: 64.63191pt x 61.6425pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 24--39
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 24--36
 []$ $[]$ 
  []
 
@@ -1630,10 +1630,10 @@ pt>
 File: OldPictures/1004ElectrostaticsTetrahedron.jpg Graphic file (type jpg)
 <use OldPictures/1004ElectrostaticsTetrahedron.jpg>
 Package pdftex.def Info: OldPictures/1004ElectrostaticsTetrahedron.jpg  used on
- input line 50.
+ input line 47.
 (pdftex.def)             Requested size: 76.38203pt x 63.13643pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 43--55
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 40--52
 []$ $[]$ 
  []
 
@@ -1641,7 +1641,7 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 43--55
 
  <./OldPictures/1003ElectrostaticsBall.jpg>]
 
-LaTeX Warning: Command \cyrh invalid in math mode on input line 62.
+LaTeX Warning: Command \cyrh invalid in math mode on input line 59.
 
 Missing character: There is no õ in font cmr10!
 <OldPictures/1005ElectrostaticsTwoPlates.jpg, id=163, 161.10187pt x 137.01187pt
@@ -1649,32 +1649,33 @@ Missing character: There is no õ in font cmr10!
 File: OldPictures/1005ElectrostaticsTwoPlates.jpg Graphic file (type jpg)
 <use OldPictures/1005ElectrostaticsTwoPlates.jpg>
 Package pdftex.def Info: OldPictures/1005ElectrostaticsTwoPlates.jpg  used on i
-nput line 68.
+nput line 65.
 (pdftex.def)             Requested size: 105.76001pt x 89.94936pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 59--73
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 56--70
 []$ $[]$ 
  []
 
+(156.tex)
 <OldPictures/1001Condensers.jpg, id=164, 219.06844pt x 172.39406pt>
 File: OldPictures/1001Condensers.jpg Graphic file (type jpg)
 <use OldPictures/1001Condensers.jpg>
-Package pdftex.def Info: OldPictures/1001Condensers.jpg  used on input line 92.
+Package pdftex.def Info: OldPictures/1001Condensers.jpg  used on input line 90.
 
 (pdftex.def)             Requested size: 105.76001pt x 83.22696pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 85--97
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 83--95
 []$ $[]$ 
  []
 
 <OldPictures/1002Condensers.jpg, id=165, 373.395pt x 173.89969pt>
 File: OldPictures/1002Condensers.jpg Graphic file (type jpg)
 <use OldPictures/1002Condensers.jpg>
-Package pdftex.def Info: OldPictures/1002Condensers.jpg  used on input line 108
+Package pdftex.def Info: OldPictures/1002Condensers.jpg  used on input line 106
 .
 (pdftex.def)             Requested size: 105.76001pt x 49.2541pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 101--113
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 99--111
 []$ $[]$ 
  []
 
@@ -1683,22 +1684,22 @@ ostaticsTwoPlates.jpg> <./OldPictures/1001Condensers.jpg>]
 <OldPictures/1005Condensers.jpg, id=170, 231.11343pt x 166.37157pt>
 File: OldPictures/1005Condensers.jpg Graphic file (type jpg)
 <use OldPictures/1005Condensers.jpg>
-Package pdftex.def Info: OldPictures/1005Condensers.jpg  used on input line 131
+Package pdftex.def Info: OldPictures/1005Condensers.jpg  used on input line 129
 .
 (pdftex.def)             Requested size: 105.76001pt x 76.13327pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 123--136
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 121--134
 []$ $[]$ 
  []
 
 <OldPictures/1006Condensers.jpg, id=171, 176.15813pt x 175.40532pt>
 File: OldPictures/1006Condensers.jpg Graphic file (type jpg)
 <use OldPictures/1006Condensers.jpg>
-Package pdftex.def Info: OldPictures/1006Condensers.jpg  used on input line 146
+Package pdftex.def Info: OldPictures/1006Condensers.jpg  used on input line 144
 .
 (pdftex.def)             Requested size: 88.13394pt x 87.75597pt.
 
-Overfull \hbox (2.22166pt too wide) in paragraph at lines 139--151
+Overfull \hbox (2.22166pt too wide) in paragraph at lines 137--149
 []$ $[]$ 
  []
 
@@ -2310,11 +2311,11 @@ L/cmm/m/it/10 Q[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 q[]$\T2A
 /cmr/m/n/10 ,
  []
 
-[58]) [59]
+[58] [59]) [60]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
-(answersFile.tex [60
+(answersFile.tex [61
 
-] [61]
+] [62]
 Overfull \hbox (9.11646pt too wide) in paragraph at lines 166--167
 []$\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 mg[] \OT1/cmr/m/n/10
  = 48$ \T2A/cmr/m/n/10 Í, $\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 = \OML/cmm/m/it
@@ -2322,12 +2323,12 @@ Overfull \hbox (9.11646pt too wide) in paragraph at lines 166--167
 it/10 \OT1/cmr/m/n/10 )\OML/cmm/m/it/10 =[] \OT1/cmr/m/n/10 =
  []
 
-[62] [63] [64] [65] [66] [67] [68] [69] [70]) [71] (Result.aux) ) 
+[63] [64] [65] [66] [67] [68] [69] [70] [71]) [72] (Result.aux) ) 
 Here is how much of TeX's memory you used:
- 27017 strings out of 492895
- 629245 string characters out of 3123268
- 802286 words of memory out of 3000000
- 30213 multiletter control sequences out of 15000+200000
+ 27021 strings out of 492895
+ 629319 string characters out of 3123268
+ 802297 words of memory out of 3000000
+ 30214 multiletter control sequences out of 15000+200000
  23382 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,13n,92p,1664b,2868s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2359,9 +2360,9 @@ grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Sanset/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C
 :/Users/Sanset/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
 mbols/msbm10.pfb>
-Output written on Result.pdf (72 pages, 1783477 bytes).
+Output written on Result.pdf (73 pages, 1787598 bytes).
 PDF statistics:
- 732 PDF objects out of 1000 (max. 8388607)
+ 737 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  367 words of extra memory for PDF output out of 10000 (max. 10000000)
 
